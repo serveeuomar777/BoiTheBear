@@ -45,9 +45,9 @@ npm install
    ```
 2. Navigate to project directory:
    ```bash
-git clone https://github.com/Fl3xxRichie/BoiTheBear.git
-cd BoiTheBear
-npm install
+   git clone https://github.com/Fl3xxRichie/BoiTheBear.git
+   cd BoiTheBear
+   npm install
    ```
 
 ### Linux
@@ -66,9 +66,9 @@ npm install
    ```
 2. Navigate to project directory and install dependencies:
    ```bash
-git clone https://github.com/Fl3xxRichie/BoiTheBear.git
-cd BoiTheBear
-npm install
+   git clone https://github.com/Fl3xxRichie/BoiTheBear.git
+   cd BoiTheBear
+   npm install
    ```
 
 ### Termux (Android)
@@ -83,9 +83,9 @@ npm install
    ```
 3. Navigate to project directory:
    ```bash
-  git clone https://github.com/Fl3xxRichie/BoiTheBear.git
-cd BoiTheBear
-npm install
+   git clone https://github.com/Fl3xxRichie/BoiTheBear.git
+   cd BoiTheBear
+   npm install
    ```
 
 ## API Setup
