@@ -1,0 +1,7 @@
+node_modules
+combined.log
+error.log
+dotenv
+package-lock.json
+testPost.js 
+.env 
