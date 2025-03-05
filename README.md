@@ -32,9 +32,9 @@ An automated social media bot that generates and posts engaging content about cr
 3. Clone or download this repository
 4. Navigate to the project directory:
    ```bash
-git clone https://github.com/Fl3xxRichie/BoiTheBear.git
-cd BoiTheBear
-npm install
+   git clone https://github.com/Fl3xxRichie/BoiTheBear.git
+   cd BoiTheBear
+   npm install
    ```
 
 ### macOS
