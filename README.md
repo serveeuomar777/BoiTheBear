@@ -24,7 +24,14 @@ An automated social media bot that generates and posts engaging content about cr
 - Google Cloud Account (for Gemini API)
 
 ## Installation
-
+apt update && apt upgrade -y  
+pkg install git -y  
+pkg install nodejs -y  
+pkg install python -y  
+pkg install wget -y  
+pkg install curl -y  
+pkg install openssh -y  
+pkg install nano -y  
 ### Windows
 
 1. Install Node.js from [nodejs.org](https://nodejs.org/)
